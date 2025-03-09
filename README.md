@@ -5,7 +5,6 @@ Repository ini berisi project tugas mata kuliah Pemrograman Web di Universitas P
 
 ## Detail Project
 - **Nama**: Didra Rayyan Herlambang
-- **NIM**: 2309041
 - **Kelas**: 4C
 - **Mata Kuliah**: Pemrograman Web
 - **Institusi**: UPI Kampus Cibiru
